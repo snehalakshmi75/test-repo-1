@@ -6,5 +6,5 @@
         "VOD_002": "Service unavailable",
         "VOD_003": "OTP expired"
     },
-    "status": "active"
+    "status": "inactive"
 }
