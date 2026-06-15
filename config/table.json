@@ -1,6 +1,6 @@
 {
     "brand": "vodafone",
-    "sms_template": "Welcome to Vodafone! Your OTP is {otp}",
+    "sms_template": "Hello Vodafone user",
     "error_codes": {
         "VOD_001": "Invalid number",
         "VOD_002": "Service unavailable",
