@@ -1,6 +1,6 @@
 {
     "brand": "vodafone",
-    "sms_template": "Welcome to Vodafone!",
+    "sms_template": "Hi vodafone user",
     "error_codes": {
         "VOD_001": "Invalid number",
         "VOD_002": "Service unavailable",
